@@ -1,3 +1,5 @@
+# Yunus Emre Şiiri Yazdırma Aracı
+
 Bu projede Yunus Emre şiirleri kullanılarak eğitilen bir derin öğrenme modeli ile şiir yazma aracı geliştiriyoruz.
 Bu model normalde sonraki kelimeyi tahmin ederek bir metin yazdırma modeli olarak kullanılmaktadır. 
 Ancak bu projede sonraki kelimeyi değil önceki kelimeyi tahmin ederek şiir yazmaya çalışıyoruz. 
